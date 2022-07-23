@@ -4,10 +4,16 @@ Notes on Google ML Engineer Certification
 
 ## Framing ML Problems
 
+* [framing](https://developers.google.com/machine-learning/crash-course/framing)
+
 ### 01: Translating business challenges into ML use cases
-Problem type (e.g., classification, regression, clustering)
-Outcome of model predictions
-Input (features) and predicted output format
+* Problem type (e.g., classification, regression, clustering)
+  * classification
+  * regression
+  * clustering
+
+* Outcome of model predictions
+* Input (features) and predicted output format
 
 ### 02: Defining ML problems
 Alignment of ML success metrics to the business problem
